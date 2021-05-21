@@ -3,7 +3,7 @@ entries:
   gitchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-21T08:19:19.261238657Z"
+    created: "2021-05-21T10:13:09.824992623Z"
     description: A Helm chart for Kubernetes
     digest: 2636d249b615a5e2855b785bc339fd7a4fb95528258b0439d55b537d9c8c928c
     name: gitchart
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitchart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-21T08:19:19.254778103Z"
+  gitchart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-21T10:13:09.825632326Z"
+    description: Seond Chart to Git Repo
+    digest: 4de77069b922d753220dff0ad434aa807243fc3d5242435617c69079e528ee06
+    name: gitchart2
+    type: application
+    urls:
+    - gitchart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-21T10:13:09.82242779Z"
